@@ -1,0 +1,13 @@
+.cmButton1, .cmButton2 {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.cmButton1 {
+    background-color: #000;
+    color: #fff;
+}
+
+.cmButton2 {
+    background-color: #ece800;
+}
